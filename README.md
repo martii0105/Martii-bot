@@ -6,11 +6,11 @@
 
 ### ` ❤️Sigueme en Instagram`
 
-<a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-Instagram-ff69b4" target="_blank"></a>
+<a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-%40martii.bs-ff69b4" target="_blank"></a>
 
 ` DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 
-<a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-Boxmineworld-%23E4405F?style=for-the-badge&logo=Boxmineworld&logoColor=black" target="_blank"></a>
+<a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-%40martii.bs-ff69b4" target="_blank"></a>
 > [⚠️] USAR LOS BOTS SIN SPAM
 
 ### `—◉ 📦 𝐇𝐎𝐓𝐒 𝐏𝐀𝐑𝐀 𝐓𝐄𝐍𝐄𝐑 𝐄𝐋 𝐁𝐎𝐓 𝟐𝟒/𝟕`
