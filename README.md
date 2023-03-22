@@ -6,7 +6,7 @@
 
 ### ` ❤️Sigueme en Instagram`
 
-<a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-Instagram-ff69b4-%23E4405F?style=for-the-badge&logo=Boxmineworld&logoColor=black" target="_blank"></a>
+<a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-Instagram-ff69b4" target="_blank"></a>
 
 ` DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 
