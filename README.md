@@ -1,10 +1,10 @@
-# ***👸 MARTII-BOT 👸***
+# ***👸🏻 MARTII-BOT 👸🏻***
 
 <p align="center">
 <img src="https://github.com/martii0105/Martii-bot/blob/main/galeria/102%20sin%20t%C3%ADtulo_20230319210127.png" alt="@martii.bs" width="900"/>
 </p>
 
-### ` ❤️Sigueme en Instagram`
+### ` 💋Sigueme en Instagram`
 
 <a href="https://www.instagram.com/martii.bs/"><img src="https://img.shields.io/badge/-%40martii.bs-ff69b4" target="_blank"></a>
 
