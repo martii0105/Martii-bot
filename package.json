@@ -1,7 +1,7 @@
 {
-    "name": "DORRAT-BOT-MD",
+    "name": "Martii-bot",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT DIEGOGAMEPLAYS82",
+    "description": "Sigueme en instagram @martii.bs",
     "main": "index-inicio.js",
     "type": "module",
     "directories": {
@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index-inicio.js"
     },
-    "homepage": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
+    "homepage": "https://www.instagram.com/martii.bs/",
     "author": {
-        "name": "DIEGO-OFC"
+        "name": "Martii-bot"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DIEGO-OFC/DORRAT-BOT-MD.git"
+        "url": "git+https://github.com/martii0105/Martii-bot.git"
     },
     "bugs": {
-        "url": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD/issues"
+        "url": "https://github.com/martii0105/Martii-bot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
